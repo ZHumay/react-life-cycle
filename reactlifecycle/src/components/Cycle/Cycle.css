@@ -1,0 +1,32 @@
+.main{
+    margin-left: 30%;
+    margin-top: 17%;
+    width: 30%;
+    height: 17s0px;
+    border-radius: 10px;
+    background-color: rgb(191, 146, 146);
+}
+.main-1{
+    margin-left: 40%;
+    margin-top: 17%;
+    width: 20%;
+    height: 140px;
+    border-radius: 10px;
+    background-color: blue;
+}
+.main-2{
+    margin-left: 40%;
+    margin-top: 17%;
+    width: 20%;
+    height: 140px;
+    border-radius: 10px;
+    background-color: purple;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+}
